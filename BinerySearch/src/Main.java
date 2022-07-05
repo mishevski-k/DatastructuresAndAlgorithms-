@@ -7,7 +7,7 @@ public class Main {
 
         int array[] = new int[1000000000];
         int target = 6565980;
-        
+
         for(int i = 0; i < array.length; i++){
             array[i] = i;
         }
